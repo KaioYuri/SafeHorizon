@@ -1,0 +1,8 @@
+data/
+*.csv
+*.html
+__pycache__/
+*.pyc
+*.pyo
+
+.venv/
